@@ -1,6 +1,7 @@
 # Android Hex Time
 * This Android App tells the time using hex colours
 * Java for Android
+* Android Wear - see TimeHexWatchFace class that extends CanvasWatchFaceService 
 
 This App was inspired by designer James E. Murphy http://www.scn9a.org/ and his project: What Colour Is It? http://whatcolourisit.scn9a.org/
 
