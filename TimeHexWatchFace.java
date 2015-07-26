@@ -239,7 +239,7 @@ public class TimeHexWatchFace extends CanvasWatchFaceService {
                 canvas.drawText(mHexTime, mXOffset, mYOffset, mTextPaint);
             } else {
                 // Set background colour.
-                mBackgroundPaint.setColor(Color.parseColor("#ffffff"));
+                mBackgroundPaint.setColor(Color.parseColor("#000000"));
                 // mBackgroundPaint.setColor(Color.parseColor("BLACK"));
                 // Draw the background.
                 canvas.drawRect(0, 0, bounds.width(), bounds.height(), mBackgroundPaint);
