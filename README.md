@@ -8,4 +8,5 @@ This App was inspired by designer James E. Murphy http://www.scn9a.org/ and his 
 from: This website tells the time using hex colours 
 http://www.creativebloq.com/creativity/website-tells-time-using-hex-colours-121413741
 
-
+Download the "Time in Hex Colours" app from the play store
+https://play.google.com/store/apps/details?id=co.cybrd.timehex
